@@ -40,5 +40,5 @@ Software Developer focused on building clean, maintainable, and visually polishe
 
 ### 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jsebas.vg?stkn=M3FlYXowMHM1MDZr)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:johnsebastianveggonzalez@gmail.com)
