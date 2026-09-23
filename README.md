@@ -1,4 +1,4 @@
-# Hi, I'm Sentryx 👋
+# Hi, I'm Vega 
 
 Software Developer focused on building clean, maintainable, and visually polished web & mobile applications.
 
