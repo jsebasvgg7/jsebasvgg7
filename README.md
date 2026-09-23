@@ -1,10 +1,10 @@
-# Hi, I'm Vega 
+# Hi, I'm Sentryx <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23ffffff" width="30" height="30" align="center" />
 
 Software Developer focused on building clean, maintainable, and visually polished web & mobile applications.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="22" height="22" align="center" /> Tech Stack & Tools
 
 #### Mobile & Frontend
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,16 +29,16 @@ Software Developer focused on building clean, maintainable, and visually polishe
 
 ---
 
-### 🚀 Focus & Interests
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23ffffff" width="22" height="22" align="center" /> Focus & Interests
 
-- 📱 **Mobile Development:** Building native Android applications using **Kotlin** and **Jetpack Compose**.
-- 💻 **Web Platforms:** Crafting responsive dashboards and applications with **React** & **TypeScript**.
-- 🎨 **UI/UX Design:** Implementing modern Neobrutalism, Bento grid layouts, and structured design systems.
-- 📐 **Architecture:** Applying Clean Architecture principles and solid design patterns.
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%23ffffff" width="16" height="16" align="center" /> **Mobile Development:** Building native Android applications using **Kotlin** and **Jetpack Compose**.
+- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23ffffff" width="16" height="16" align="center" /> **Web Platforms:** Crafting responsive dashboards and applications with **React** & **TypeScript**.
+- <img src="https://api.iconify.design/lucide:palette.svg?color=%23ffffff" width="16" height="16" align="center" /> **UI/UX Design:** Implementing modern Neobrutalism, Bento grid layouts, and structured design systems.
+- <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="16" height="16" align="center" /> **Architecture:** Applying Clean Architecture principles and solid design patterns.
 
 ---
 
-### 📬 Connect with me
+### <img src="https://api.iconify.design/lucide:send.svg?color=%23ffffff" width="22" height="22" align="center" /> Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jsebas.vg?stkn=M3FlYXowMHM1MDZr)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:johnsebastianveggonzalez@gmail.com)
