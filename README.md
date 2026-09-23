@@ -1,10 +1,9 @@
-# Hi, I'm Vega <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23ffffff" width="26" height="26" align="center" />
-
+# Hi, I'm Vega 
 Software Developer focused on building clean, maintainable, and visually polished web & mobile applications.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="20" height="20" align="center" /> Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Mobile & Frontend
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,16 +28,16 @@ Software Developer focused on building clean, maintainable, and visually polishe
 
 ---
 
-### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23ffffff" width="20" height="20" align="center" /> Focus & Interests
+### Focus & Interests
 
-- ![Mobile](https://img.shields.io/badge/-000000?style=flat-square&logo=android&logoColor=white) **Mobile Development:** Building native Android applications using **Kotlin** and **Jetpack Compose**.
-- ![Web](https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=61DAFB) **Web Platforms:** Crafting responsive dashboards and applications with **React** & **TypeScript**.
-- ![Design](https://img.shields.io/badge/-000000?style=flat-square&logo=figma&logoColor=white) **UI/UX Design:** Implementing modern Neobrutalism, Bento grid layouts, and structured design systems.
-- ![Architecture](https://img.shields.io/badge/-000000?style=flat-square&logo=clean-code&logoColor=white) **Architecture:** Applying Clean Architecture principles and solid design patterns.
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%23ffffff" width="16" height="16" style="vertical-align: text-bottom;" /> **Mobile Development:** Building native Android applications using **Kotlin** and **Jetpack Compose**.
+- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23ffffff" width="16" height="16" style="vertical-align: text-bottom;" /> **Web Platforms:** Crafting responsive dashboards and applications with **React** & **TypeScript**.
+- <img src="https://api.iconify.design/lucide:palette.svg?color=%23ffffff" width="16" height="16" style="vertical-align: text-bottom;" /> **UI/UX Design:** Implementing modern Neobrutalism, Bento grid layouts, and structured design systems.
+- <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="16" height="16" style="vertical-align: text-bottom;" /> **Architecture:** Applying Clean Architecture principles and solid design patterns.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:send.svg?color=%23ffffff" width="20" height="20" align="center" /> Connect with me
+### Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jsebas.vg?stkn=M3FlYXowMHM1MDZr)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:johnsebastianveggonzalez@gmail.com)
